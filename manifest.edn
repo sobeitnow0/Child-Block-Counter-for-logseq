@@ -1,0 +1,8 @@
+{:name "Child Block Counter"
+ :description "A plugin that displays the number of child blocks for each block in your Logseq graph"
+ :version "0.1.0"
+ :logseq-version ">= 0.4.0"
+ :author "Your Name"
+ :url "https://github.com/yourusername/child-block-counter"
+ :main child-block-counter.core/start}
+
